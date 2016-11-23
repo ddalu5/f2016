@@ -9,7 +9,6 @@ from slackclient import SlackClient
 BOT_NAME = 'f2016'
 SLACK_BOT_TOKEN = ''
 READ_WEBSOCKET_DELAY = 0.3
-EXAMPLE_COMMAND = "do"
 
 try:
     from dev import *
