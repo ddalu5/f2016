@@ -1,5 +1,5 @@
 # f2016
-f2016 is a simple Slack bot that tells people to not TALK about the year 2016.
+f2016 is a simple Python Slack bot that tells people to not TALK about the year 2016.
 
 ## How to?
 
