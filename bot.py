@@ -61,5 +61,5 @@ if __name__ == "__main__":
                         no_2016(channel)
                     time.sleep(READ_WEBSOCKET_DELAY)
 
-    else:
-        print("No user " + BOT_NAME)
+        else:
+            print("No user " + BOT_NAME)
