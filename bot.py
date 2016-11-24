@@ -6,8 +6,8 @@ import time
 from slackclient import SlackClient
 
 
-BOT_NAME = 'f2016'
-SLACK_BOT_TOKEN = ''
+BOT_NAME = '[PUT BOT USERNAME HERE]'
+SLACK_BOT_TOKEN = '[PUT API TOKEN HERE]'
 READ_WEBSOCKET_DELAY = 0.3
 
 try:
